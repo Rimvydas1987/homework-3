@@ -1,3 +1,17 @@
+# REACT JS HOMEWORK - 3
+
+Užduotis:
+Padaryti tris kontroliuojamus inputus du text tipo ir vienas checkbox. 
+Vienas inputas turi keisti apskritimo spalvą, 
+kitas apskritimo skersmenį 
+ir trečias- kai pažymėtas turi pakeisti apskritimą į kvadratą
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
